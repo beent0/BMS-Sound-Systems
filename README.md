@@ -5,17 +5,18 @@ TO-DO
 - [ ] Sem pastas
 - [ ] Nome dos ficheiros
 - [ ] Screenshot do diagrama
-- [ ] Tem q ser |1 Consumiveis:LinhaConsumivel M0
-- [ ] Obrigarotiedade do |Tecnico-Serviço0
-- [ ] Obrigatoriedade |IVA - Resto0
-- [ ] Equipamento não pode ter stock
-- [ ] Tirar Quantidade Fornecida da LinhaConsumivel
-- [ ] Tirar Keys do IVA
-- [ ] Duraçao do trabalhador ServiçoTecnico
-- [ ] Contrato = aluger Equi
-- [ ] Tecnico só com horas
+- [x] Tem q ser |1 Consumiveis:LinhaConsumivel M0
+- [x] Obrigarotiedade do |Tecnico-Serviço0
+- [x] Obrigatoriedade |IVA - Resto0
+- [x] Equipamento não pode ter stock
+- [x] Tirar Quantidade Fornecida da LinhaConsumivel
+- [x] Tirar Keys do IVA
+- [x] Duraçao do trabalhador ServiçoTecnico
+- [ ] Contrato = aluger Equi?
+- [x] Tecnico só com horas
 - [ ] Aluguer ao dia
-- [ ] Datas na linha equipamento /= datas contrato
-- [ ] Tipo de tecnico + preço desse tipo Nova Tabela ligada aos técnicos  
+- [ ] Datas na linha equipamento != datas contrato
+- [x] Tipo de tecnico + preço desse tipo Nova Tabela ligada aos técnicos
+- [ ] Verificar se FK Tecnico - TipoTecnico estão corretas
 - [ ] Confirmar multiplicidade relatorio - diagrama
 - [ ] Valor do iva na fatura (E se o IVA mudar?)
