@@ -1,7 +1,7 @@
 # BMS Sound Systems
 A MySQL Workbench project example for a Festival Sound Systems company
 
-TO-DO
+TO-DO after feedback
 - [ ] Sem pastas
 - [ ] Nome dos ficheiros
 - [ ] Screenshot do diagrama
@@ -20,3 +20,10 @@ TO-DO
 - [ ] Verificar se FK Tecnico - TipoTecnico estão corretas
 - [ ] Confirmar multiplicidade relatorio - diagrama
 - [ ] Valor do iva na fatura (E se o IVA mudar?)
+
+TO-DO Entrega Final
+
+- [ ] Criar os dados
+- [ ] Carregar os dados para a base de dados
+- [ ] Operações de Aluger, Devolução, Manutenção, Faturação, e restantes operações
+- [ ] 
